@@ -1,0 +1,20 @@
+{
+  "title": "Drupal",
+  "readingTime": 60,
+  "authors": [
+    {
+      "name": "Vladyslav Shynal",
+      "email": "vladyslav_shynal@epam.com"
+    }
+  ],
+  "description": "Drupal is an open source content management platform supporting a variety of
+websites ranging from personal weblogs to large community-driven websites. For
+more information, see the Drupal website at https://www.drupal.org, and join
+the Drupal community at https://www.drupal.org/community. Note: For performance testing only.",
+  "tags": [
+    "framework",
+    "dry",
+    "clean_code"
+  ],
+  "program_lang": "php"
+}
